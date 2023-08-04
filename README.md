@@ -1,1 +1,2 @@
-# simple_form_with_react
+npm install to install the packages
+npm start to start the server
